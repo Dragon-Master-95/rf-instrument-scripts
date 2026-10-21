@@ -20,7 +20,7 @@ or any HDF5 tool (h5py, MATLAB, HDFView).
     ├── anritsu/
     │   └── ms2720t/
     │       ├── anritsuMS2720T_acq.py   # configure, single sweep, continuous recording
-    │       └── spectrum_viewer.py      # GUI to view recorded .h5 files
+    │   └── spectrum_viewer.py      # GUI to view recorded .h5 files
     ├── common/                         # shared helpers (planned)
     ├── data/                           # local recordings (gitignored)
     ├── requirements.txt
